@@ -2,7 +2,7 @@ package com.sai.photo.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//application
 @SpringBootApplication
 public class SpringBootApp {
 	
